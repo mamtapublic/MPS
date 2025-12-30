@@ -1,20 +1,11 @@
-<div style="background:#ffcc00; padding:10px; text-align:center; font-weight:bold;"
-</div><script>
-alert("📢 Important Notice: Date -29th Dec 2025
-Day -Monday 
-
-Dear parents 
-
-Greetings of the day.
-
-This is to inform you that the Draw of Lots for the selection of Parents and Teachers representatives for the Constitution of SLFRC Committee shall be conducted on 5th January, 2026 (Monday).
-
-📍 Venue: Mamta Public School
-📅 Date: 5th January 2026
-⏰ Time: 11:00 a.m. onwards
-
-You are therefore, requested to attend and witness the draw .
-
-Warm regards,
-Mamta Public School!");
-</script>
+<div style="background:#ffeb3b; color:#000; padding:15px; text-align:center; font-weight:bold; font-family:Arial; border: 2px solid #fbc02d; border-radius:5px; margin-bottom:20px;">
+Dear Parents,<br><br>
+Greetings of the day.<br><br>
+This is to inform you that the Draw of Lots for the selection of Parents and Teachers representatives for the Constitution of SLFRC Committee shall be conducted on <strong>5th January, 2026 (Monday)</strong>.<br><br>
+📍 Venue: Mamta Public School<br>
+📅 Date: 5th January 2026<br>
+⏰ Time: 11:00 a.m. onwards<br><br>
+You are therefore, requested to attend and witness the draw.<br><br>
+Warm regards,<br>
+<strong>Mamta Public School</strong>
+</div>
